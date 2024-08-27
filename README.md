@@ -2,6 +2,8 @@
 
 **ViewSift** is a powerful algorithm designed to select interconnected views from pre-screened user-defined views, optimizing for maximum combined score. This tool is ideal for identifying reliable data relationships in complex database schemas. One example use case is selecting views for power supply analysis.
 
+[Example](schema.png)
+
 ## Purpose
 
 The primary goal of ViewSift is to help users optimize pre-selected sets of views, such as rerankers or model outputs, by analyzing their logical relationships within an SQLite database. By understanding the relationships between views through their base tables, ViewSift aids in optimizing database queries, understanding data dependencies, and improving LLM/Other models input.
