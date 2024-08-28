@@ -3,6 +3,7 @@
 **ViewSift** is a powerful algorithm designed to select interconnected views from pre-screened user-defined views, optimizing for maximum combined score. This tool is ideal for identifying reliable data relationships in complex database schemas. One example use case is selecting views for power supply analysis.
 
 ![Example](schema.png)
+![Example](select.png)
 
 ## Purpose
 
